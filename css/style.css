@@ -111,7 +111,7 @@ h1{
   padding-left: 100px;
   float: left;
 }
-#s{
+.s{
   margin: 10px auto;
   padding: 20px 50px;
 }
@@ -124,7 +124,7 @@ h1{
   color: red;
 }
 
-#t, #disclaimers{
+.t, #disclaimers{
   margin: 10px auto;
   padding: 20px 50px;
 }
