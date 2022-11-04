@@ -103,13 +103,13 @@ h1{
 }
 
 .violin_img{
-  padding-right: 100px;
-  float: right;
+  float: left;
+  padding-left: 100px;
 }
 
 .video{
-  padding-left: 100px;
-  float: left;
+  padding-right: 100px;
+  float: right;
 }
 .s{
   margin: 10px auto;
